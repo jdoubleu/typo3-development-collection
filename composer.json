@@ -11,7 +11,8 @@
         "namelesscoder/typo3-cms-fluid-precompiler-module": "^1.1",
         "portrino/typo3-whoops": "^0.1.0",
         "friendsofphp/php-cs-fixer": "^2.10",
-        "nimut/testing-framework": "^3.0"
+        "nimut/testing-framework": "^3.0",
+        "namelesscoder/typo3-cms-fluid-debug": "^1.0"
     },
     "license": "MIT",
     "authors": [
