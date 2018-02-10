@@ -2,6 +2,10 @@
     "name": "jdoubleu/typo3-development-collection",
     "description": "A collection of TYPO3 extension to support development.",
     "type": "metapackage",
+    "homepage": "https://github.com/jdoubleu/typo3-development-collection",
+    "support": {
+        "issues": "https://github.com/jdoubleu/typo3-development-collection/issues"
+    },
     "require-dev": {
         "georgringer/backend-debug": "^1.0",
         "namelesscoder/typo3-cms-fluid-precompiler-module": "^1.1",
