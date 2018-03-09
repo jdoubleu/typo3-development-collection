@@ -21,5 +21,7 @@
             "email": "dev@jdoubleu.de"
         }
     ],
-    "require": {}
+    "require": {
+        "konafets/typo3_debugbar": "^1.2"
+    }
 }
